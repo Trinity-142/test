@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <strring>
-#include <vector>
+#include <iomanip>
 using namespace std;
 
 class ExceptionLess : public exception {
